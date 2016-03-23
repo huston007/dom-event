@@ -1,6 +1,6 @@
 {
   "name": "dom-event",
-  "version": "0.0.3",
+  "version": "0.0.5-jb",
   "description": "Add/remove DOM events",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "binding"
   ],
   "repository": {
-    "url": "git@github.com:npm-dom/dom-event.git",
+    "url": "git@github.com:huston007/dom-event.git",
     "type": "git"
   },
   "author": "Azer Koçulu <azer@kodfabrik.com>",
